@@ -13,8 +13,8 @@ This is a Task Management System built using Laravel. It allows users to create,
 ## Admin Credentials
 To log in as an admin, use the following credentials:
 
-- **Email:** admin@example.com  
-- **Password:** password123
+- **Email:** admin@test.com  
+- **Password:** 1234567890
 
 ## Installation
 
@@ -29,7 +29,7 @@ Make sure you have the following installed:
 ### Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/himanshupandey98/task-management.git
    cd task-management
    ```
 2. Install dependencies:
@@ -88,6 +88,4 @@ Feel free to fork this repository and submit a pull request with improvements.
 ## License
 This project is licensed under the MIT License.
 
----
-Developed with ❤️ using Laravel.
 
